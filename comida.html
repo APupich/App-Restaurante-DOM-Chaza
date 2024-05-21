@@ -20,7 +20,7 @@
             </div>
         </div>
             <div class="nombrePlato">Oven Roasted Chicken Choped Salad</div>
-            <div class="valorPlato">$6.99</div>
+            <div class="valorPlato"></div>
         
     </header>
     <main class="comida">
@@ -32,11 +32,14 @@
             
             <nav class="agregarCarrito">
                 <div class="flex">
-                    <button id="restar" class="iconos botonCarrito" onclick="restar()">remove</button>
-                    <p class="botonCarrito" id="cantidad">2</p>
-                    <button id="sumar" class="iconos botonCarrito" onclick="sumar()">add</button>
+                    <div class="flex">
+                        <button id="restar" class="iconos botonCarrito" onclick="restar()">remove</button>
+                        <p class="botonCarrito" id="cantidad">2</p>
+                        <button id="sumar" class="iconos botonCarrito" onclick="sumar()">add</button>
+                    </div>
+                    <button class="btnAgregar"><i class="iconos">post_add</i>Agregar al pedido</button>
                 </div>
-                <button class="btnAgregar"><i class="iconos">post_add</i>Agregar al pedido</button>
+                <span id="subTotal"></span>
             </nav>
     </main>
     <script src="js/acciones.js"></script>
