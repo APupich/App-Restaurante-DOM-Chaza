@@ -30,12 +30,16 @@
             </p>
             <input type="text" class="nota" placeholder="Add a note(Extra sauce,no onions,etc)">
             
-            <div class="footer">
-                <div class="sumador"><span>+ 2 -</span></div>
-            <div class="carrito"><span>ADD TO CART</span></div>
-        </div>
+            <nav class="agregarCarrito">
+                <div class="flex">
+                    <button id="restar" class="iconos botonCarrito" onclick="restar()">remove</button>
+                    <p class="botonCarrito" id="cantidad">2</p>
+                    <button id="sumar" class="iconos botonCarrito" onclick="sumar()">add</button>
+                </div>
+                <button class="btnAgregar"><i class="iconos">post_add</i>Agregar al pedido</button>
+            </nav>
     </main>
-
+    <script src="js/acciones.js"></script>
 </body>
 
 </html>
