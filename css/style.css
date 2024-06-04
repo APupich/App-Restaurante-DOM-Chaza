@@ -154,14 +154,17 @@ main.index {
     box-shadow: 10px 5px 20px -10px rgba(0, 0, 0, 0.418);
 
     & .img {
-      background-image: url(../img/restau.webp);
-      background-position: center;
-      background-size: cover;
+      display: grid;
+      place-items: center;
+      
       height: 100%;
       width: 42%;
       border-radius: 15px 0 0 15px;
       position: relative;
-
+      img{
+        height: auto;
+        width: 60%;
+      }
       & span {
         color: #ffffff;
         position: absolute;
