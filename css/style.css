@@ -157,7 +157,7 @@ main.index {
     & .img {
       display: grid;
       place-items: center;
-      
+      overflow: hidden;
       height: 100%;
       width: 42%;
       border-radius: 15px 0 0 15px;
