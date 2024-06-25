@@ -38,13 +38,3 @@ fetch('js/restos.json')
 
         });
     })
-
-// addEventListener(click, (e) =>{
-//     let click = document.getElementById()
-//     let restoId = document.querySelector(".calificacion")
-//     console.log(e.currentTarget);
-// })
-
-// function obtenerId(){
-//     let restoId = document.querySelector(".calificacion")
-// }

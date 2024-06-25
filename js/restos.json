@@ -18,32 +18,32 @@
             {
                 "name": "Diavolo Piada",
                 "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "price": 91.99
             },
             {
-                "name": "Diavolo Piada",
+                "name": "Diavolo Piada 1",
                 "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "price": 95.99
             },
             {
-                "name": "Diavolo Piada",
+                "name": "Diavolo Piada 2",
                 "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "price": 96.99
             },
             {
-                "name": "Diavolo Piada",
+                "name": "Diavolo Piada 3",
                 "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "price": 97.99
             },
             {
-                "name": "Diavolo Piada",
+                "name": "Diavolo Piada 4",
                 "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "price": 98.99
             },
             {
-                "name": "Diavolo Piada",
+                "name": "Diavolo Piada 5",
                 "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "price": 99.99
             }
         ],
         "cant_review": 3,
@@ -64,6 +64,26 @@
             },
             {
                 "name": "Augustus Tercero",
+                "food": "Doble cuarto de libra",
+                "usr_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+                "description": "No esta tan mal",
+                "stars": 3
+            }, {
+                "name": "Augustus Pupicho",
+                "food": "Doble cuarto de libra",
+                "description": "Nunca mas como en este lugar",
+                "usr_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+                "stars": 1
+            },
+            {
+                "name": "Luca Cabra",
+                "food": "Doble cuarto de libra",
+                "usr_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+                "description": "No voy a volver",
+                "stars": 2
+            },
+            {
+                "name": "Joaquin Azpilikue 8va",
                 "food": "Doble cuarto de libra",
                 "usr_img" : "https://randomuser.me/api/portraits/men/11.jpg",
                 "description": "No esta tan mal",
@@ -93,29 +113,24 @@
                 "price": 9.99
             },
             {
-                "name": "L Taco",
-                "description": "enchilladsad",
-                "price": 9.99
+                "name": "Burrito",
+                "description": "burrito mexicano",
+                "price": 11.50
             },
             {
                 "name": "Quesadilla",
-                "description": "mesicana",
-                "price": 9.99
+                "description": "quesadilla con queso y carne",
+                "price": 8.75
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Enchiladas",
+                "description": "enchiladas con pollo y salsa roja",
+                "price": 10.25
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
-            },
-            {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Guacamole",
+                "description": "guacamole fresco con nachos",
+                "price": 6.99
             }
         ],
         "cant_review": 3,
@@ -140,6 +155,13 @@
                 "usr_img" : "https://randomuser.me/api/portraits/men/44.jpg",
                 "description": "No esta tan mal",
                 "stars": 3
+            },
+            {
+                "name": "Augustus Cuarto",
+                "food": "Enchilladas",
+                "usr_img" : "https://randomuser.me/api/portraits/men/45.jpg",
+                "description": "No esta tan mal pero no volveria",
+                "stars": 3
             }
         ]
     },{
@@ -159,34 +181,34 @@
         "distance": "3km",
         "menu": [
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Taco",
+                "description": "taco mexico tacos",
+                "price": 9.99,
+                "country": "Mexico"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Pizza Margherita",
+                "description": "classic Italian pizza with tomato, mozzarella, and basil",
+                "price": 12.50,
+                "country": "Italy"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Sushi Roll",
+                "description": "traditional Japanese sushi roll with fresh fish and rice",
+                "price": 15.75,
+                "country": "Japan"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Croissant",
+                "description": "buttery French pastry",
+                "price": 5.99,
+                "country": "France"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
-            },
-            {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Pad Thai",
+                "description": "Thai stir-fried noodles with shrimp and peanuts",
+                "price": 11.25,
+                "country": "Thailand"
             }
         ],
         "cant_review": 3,
@@ -230,34 +252,34 @@
         "distance": "3km",
         "menu": [
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Hamburger",
+                "description": "classic American hamburger with beef patty, lettuce, tomato, and pickles",
+                "price": 8.99,
+                "country": "United States"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Paella",
+                "description": "Spanish saffron rice dish with seafood, chicken, and vegetables",
+                "price": 17.50,
+                "country": "Spain"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Sushi Sashimi",
+                "description": "assortment of raw fish slices and sushi rice, Japanese style",
+                "price": 22.75,
+                "country": "Japan"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Currywurst",
+                "description": "German street food dish of sausage with curry ketchup and fries",
+                "price": 9.25,
+                "country": "Germany"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
-            },
-            {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Pad See Ew",
+                "description": "Thai stir-fried noodles with chicken, soy sauce, and vegetables",
+                "price": 10.99,
+                "country": "Thailand"
             }
         ],
         "cant_review": 3,
@@ -301,34 +323,34 @@
         "distance": "3km",
         "menu": [
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Ramen",
+                "description": "Japanese noodle soup with broth, noodles, and various toppings",
+                "price": 12.99,
+                "country": "Japan"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Churrasco",
+                "description": "Brazilian grilled meat served with chimichurri sauce and farofa",
+                "price": 19.50,
+                "country": "Brazil"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Moussaka",
+                "description": "Greek baked dish with layers of eggplant, minced meat, and béchamel sauce",
+                "price": 14.75,
+                "country": "Greece"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Pho",
+                "description": "Vietnamese noodle soup with beef or chicken, herbs, and rice noodles",
+                "price": 10.50,
+                "country": "Vietnam"
             },
             {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
-            },
-            {
-                "name": "Diavolo Piada",
-                "description": "Deep Frie of vegetable",
-                "price": 9.99
+                "name": "Fish and Chips",
+                "description": "British dish of battered and fried fish with thick-cut fries",
+                "price": 11.99,
+                "country": "United Kingdom"
             }
         ],
         "cant_review": 3,
